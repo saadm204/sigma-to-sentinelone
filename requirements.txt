@@ -1,0 +1,4 @@
+flask
+flask-cors
+pysigma
+git+https://github.com/7RedViolin/pySigma-backend-sentinelone-pq.git
